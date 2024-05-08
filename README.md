@@ -1,9 +1,2 @@
-# MyRepository
-#Still working to build a better repository and organize thoroughly.
-
-My repository contains all the work I have doen throughout my academic course
-
-The order of contents is quite variant as it includes some Automation testing document, Iot and Electronics projects,IT projects, ML and data analytics as well
-contents :
-K means clustering project(Project Data Model)
-Selenium assignment on demo cart automation
+# Retail Data Analysis using K means clustering
+This project consists of EDA, data preprocessing and other data analysis done on a shopping data set and application of K means clustering algorithm to find the optimal number of data clusters for further analysis and machine learning application.
